@@ -1,0 +1,609 @@
+{
+    "students": [
+        {
+            "_person_id": "S-S-1",
+            "_name": "Ilisha",
+            "_email": "ilisha@example.com",
+            "_phone": "9876543210",
+            "roll_no": "S-1",
+            "department": "IT",
+            "semester": "2",
+            "registered_courses": [
+                "C-101"
+            ],
+            "results": {
+                "Python Programming": 9.2
+            }
+        },
+        {
+            "_person_id": "S-S-2",
+            "_name": "Aarav",
+            "_email": "aarav@example.com",
+            "_phone": "9876543211",
+            "roll_no": "S-2",
+            "department": "CSE",
+            "semester": "3",
+            "registered_courses": [
+                "C-102"
+            ],
+            "results": {
+                "Data Structures": 8.6
+            }
+        },
+        {
+            "_person_id": "S-S-3",
+            "_name": "Meera",
+            "_email": "meera@example.com",
+            "_phone": "9876543212",
+            "roll_no": "S-3",
+            "department": "ECE",
+            "semester": "4",
+            "registered_courses": [
+                "C-103"
+            ],
+            "results": {
+                "Database Systems": 8.9
+            }
+        },
+        {
+            "_person_id": "S-S-4",
+            "_name": "Kabir",
+            "_email": "kabir@example.com",
+            "_phone": "9876543213",
+            "roll_no": "S-4",
+            "department": "ME",
+            "semester": "5",
+            "registered_courses": [
+                "C-104"
+            ],
+            "results": {
+                "Operating Systems": 7.8
+            }
+        },
+        {
+            "_person_id": "S-S-5",
+            "_name": "Ananya",
+            "_email": "ananya@example.com",
+            "_phone": "9876543214",
+            "roll_no": "S-5",
+            "department": "IT",
+            "semester": "6",
+            "registered_courses": [
+                "C-105"
+            ],
+            "results": {
+                "Computer Networks": 8.1
+            }
+        },
+        {
+            "_person_id": "S-S-6",
+            "_name": "Rohan",
+            "_email": "rohan@example.com",
+            "_phone": "9876543215",
+            "roll_no": "S-6",
+            "department": "CSE",
+            "semester": "2",
+            "registered_courses": [
+                "C-106"
+            ],
+            "results": {
+                "Software Engineering": 8.4
+            }
+        },
+        {
+            "_person_id": "S-S-7",
+            "_name": "Priya",
+            "_email": "priya@example.com",
+            "_phone": "9876543216",
+            "roll_no": "S-7",
+            "department": "ECE",
+            "semester": "3",
+            "registered_courses": [
+                "C-107"
+            ],
+            "results": {
+                "Web Development": 9.0
+            }
+        },
+        {
+            "_person_id": "S-S-8",
+            "_name": "Dev",
+            "_email": "dev@example.com",
+            "_phone": "9876543217",
+            "roll_no": "S-8",
+            "department": "Civil",
+            "semester": "4",
+            "registered_courses": [
+                "C-108"
+            ],
+            "results": {
+                "Artificial Intelligence": 8.7
+            }
+        },
+        {
+            "_person_id": "S-S-9",
+            "_name": "Sara",
+            "_email": "sara@example.com",
+            "_phone": "9876543218",
+            "roll_no": "S-9",
+            "department": "IT",
+            "semester": "5",
+            "registered_courses": [
+                "C-109"
+            ],
+            "results": {
+                "Cloud Computing": 8.3
+            }
+        },
+        {
+            "_person_id": "S-S-10",
+            "_name": "Neel",
+            "_email": "neel@example.com",
+            "_phone": "9876543219",
+            "roll_no": "S-10",
+            "department": "CSE",
+            "semester": "6",
+            "registered_courses": [
+                "C-110"
+            ],
+            "results": {
+                "Cyber Security": 8.8
+            }
+        }
+    ],
+    "faculty": [
+        {
+            "_person_id": "F-F-101",
+            "_name": "Dr. Sharma",
+            "_email": "sharma@example.com",
+            "_phone": "8765432101",
+            "employee_id": "F-101",
+            "department": "IT",
+            "salary": 75000,
+            "courses_taught": [
+                "C-101"
+            ]
+        },
+        {
+            "_person_id": "F-F-102",
+            "_name": "Prof. Rao",
+            "_email": "rao@example.com",
+            "_phone": "8765432102",
+            "employee_id": "F-102",
+            "department": "CSE",
+            "salary": 72000,
+            "courses_taught": [
+                "C-102"
+            ]
+        },
+        {
+            "_person_id": "F-F-103",
+            "_name": "Dr. Kapoor",
+            "_email": "kapoor@example.com",
+            "_phone": "8765432103",
+            "employee_id": "F-103",
+            "department": "ECE",
+            "salary": 74000,
+            "courses_taught": [
+                "C-103"
+            ]
+        },
+        {
+            "_person_id": "F-F-104",
+            "_name": "Prof. Menon",
+            "_email": "menon@example.com",
+            "_phone": "8765432104",
+            "employee_id": "F-104",
+            "department": "ME",
+            "salary": 70000,
+            "courses_taught": [
+                "C-104"
+            ]
+        },
+        {
+            "_person_id": "F-F-105",
+            "_name": "Dr. Iyer",
+            "_email": "iyer@example.com",
+            "_phone": "8765432105",
+            "employee_id": "F-105",
+            "department": "IT",
+            "salary": 76000,
+            "courses_taught": [
+                "C-105"
+            ]
+        },
+        {
+            "_person_id": "F-F-106",
+            "_name": "Prof. Khan",
+            "_email": "khan@example.com",
+            "_phone": "8765432106",
+            "employee_id": "F-106",
+            "department": "CSE",
+            "salary": 73000,
+            "courses_taught": [
+                "C-106"
+            ]
+        },
+        {
+            "_person_id": "F-F-107",
+            "_name": "Dr. Sen",
+            "_email": "sen@example.com",
+            "_phone": "8765432107",
+            "employee_id": "F-107",
+            "department": "ECE",
+            "salary": 71000,
+            "courses_taught": [
+                "C-107"
+            ]
+        },
+        {
+            "_person_id": "F-F-108",
+            "_name": "Prof. Bose",
+            "_email": "bose@example.com",
+            "_phone": "8765432108",
+            "employee_id": "F-108",
+            "department": "Civil",
+            "salary": 69000,
+            "courses_taught": [
+                "C-108"
+            ]
+        },
+        {
+            "_person_id": "F-F-109",
+            "_name": "Dr. Nair",
+            "_email": "nair@example.com",
+            "_phone": "8765432109",
+            "employee_id": "F-109",
+            "department": "IT",
+            "salary": 77000,
+            "courses_taught": [
+                "C-109"
+            ]
+        },
+        {
+            "_person_id": "F-F-110",
+            "_name": "Prof. Mehta",
+            "_email": "mehta@example.com",
+            "_phone": "8765432110",
+            "employee_id": "F-110",
+            "department": "CSE",
+            "salary": 78000,
+            "courses_taught": [
+                "C-110"
+            ]
+        }
+    ],
+    "courses": {
+        "C-101": {
+            "course_id": "C-101",
+            "course_name": "Python Programming",
+            "credits": 4,
+            "faculty_assigned": "F-101",
+            "students": [
+                "S-1"
+            ]
+        },
+        "C-102": {
+            "course_id": "C-102",
+            "course_name": "Data Structures",
+            "credits": 4,
+            "faculty_assigned": "F-102",
+            "students": [
+                "S-2"
+            ]
+        },
+        "C-103": {
+            "course_id": "C-103",
+            "course_name": "Database Systems",
+            "credits": 3,
+            "faculty_assigned": "F-103",
+            "students": [
+                "S-3"
+            ]
+        },
+        "C-104": {
+            "course_id": "C-104",
+            "course_name": "Operating Systems",
+            "credits": 4,
+            "faculty_assigned": "F-104",
+            "students": [
+                "S-4"
+            ]
+        },
+        "C-105": {
+            "course_id": "C-105",
+            "course_name": "Computer Networks",
+            "credits": 3,
+            "faculty_assigned": "F-105",
+            "students": [
+                "S-5"
+            ]
+        },
+        "C-106": {
+            "course_id": "C-106",
+            "course_name": "Software Engineering",
+            "credits": 3,
+            "faculty_assigned": "F-106",
+            "students": [
+                "S-6"
+            ]
+        },
+        "C-107": {
+            "course_id": "C-107",
+            "course_name": "Web Development",
+            "credits": 4,
+            "faculty_assigned": "F-107",
+            "students": [
+                "S-7"
+            ]
+        },
+        "C-108": {
+            "course_id": "C-108",
+            "course_name": "Artificial Intelligence",
+            "credits": 4,
+            "faculty_assigned": "F-108",
+            "students": [
+                "S-8"
+            ]
+        },
+        "C-109": {
+            "course_id": "C-109",
+            "course_name": "Cloud Computing",
+            "credits": 3,
+            "faculty_assigned": "F-109",
+            "students": [
+                "S-9"
+            ]
+        },
+        "C-110": {
+            "course_id": "C-110",
+            "course_name": "Cyber Security",
+            "credits": 3,
+            "faculty_assigned": "F-110",
+            "students": [
+                "S-10"
+            ]
+        }
+    },
+    "library": {
+        "books": [
+            "Python Basics",
+            "Data Structures Made Easy",
+            "DBMS Concepts",
+            "Operating System Notes",
+            "Networking Fundamentals",
+            "Software Engineering Guide",
+            "HTML CSS JavaScript",
+            "AI for Beginners",
+            "Cloud Essentials",
+            "Cyber Security Handbook"
+        ],
+        "issued_books": {}
+    },
+    "fee_records": {
+        "S-1": {
+            "student_id": "S-1",
+            "total_fee": 50000,
+            "paid_fee": 30000,
+            "balance_fee": 20000
+        },
+        "S-2": {
+            "student_id": "S-2",
+            "total_fee": 52000,
+            "paid_fee": 42000,
+            "balance_fee": 10000
+        },
+        "S-3": {
+            "student_id": "S-3",
+            "total_fee": 51000,
+            "paid_fee": 25000,
+            "balance_fee": 26000
+        },
+        "S-4": {
+            "student_id": "S-4",
+            "total_fee": 53000,
+            "paid_fee": 53000,
+            "balance_fee": 0
+        },
+        "S-5": {
+            "student_id": "S-5",
+            "total_fee": 50000,
+            "paid_fee": 15000,
+            "balance_fee": 35000
+        },
+        "S-6": {
+            "student_id": "S-6",
+            "total_fee": 54000,
+            "paid_fee": 24000,
+            "balance_fee": 30000
+        },
+        "S-7": {
+            "student_id": "S-7",
+            "total_fee": 51500,
+            "paid_fee": 31500,
+            "balance_fee": 20000
+        },
+        "S-8": {
+            "student_id": "S-8",
+            "total_fee": 52500,
+            "paid_fee": 40000,
+            "balance_fee": 12500
+        },
+        "S-9": {
+            "student_id": "S-9",
+            "total_fee": 50500,
+            "paid_fee": 50500,
+            "balance_fee": 0
+        },
+        "S-10": {
+            "student_id": "S-10",
+            "total_fee": 55000,
+            "paid_fee": 20000,
+            "balance_fee": 35000
+        }
+    },
+    "attendance_records": {
+        "S-1|C-101": {
+            "student_id": "S-1",
+            "course_id": "C-101",
+            "total_classes": 30,
+            "present_classes": 28
+        },
+        "S-2|C-102": {
+            "student_id": "S-2",
+            "course_id": "C-102",
+            "total_classes": 30,
+            "present_classes": 26
+        },
+        "S-3|C-103": {
+            "student_id": "S-3",
+            "course_id": "C-103",
+            "total_classes": 28,
+            "present_classes": 25
+        },
+        "S-4|C-104": {
+            "student_id": "S-4",
+            "course_id": "C-104",
+            "total_classes": 32,
+            "present_classes": 27
+        },
+        "S-5|C-105": {
+            "student_id": "S-5",
+            "course_id": "C-105",
+            "total_classes": 30,
+            "present_classes": 24
+        },
+        "S-6|C-106": {
+            "student_id": "S-6",
+            "course_id": "C-106",
+            "total_classes": 29,
+            "present_classes": 25
+        },
+        "S-7|C-107": {
+            "student_id": "S-7",
+            "course_id": "C-107",
+            "total_classes": 31,
+            "present_classes": 30
+        },
+        "S-8|C-108": {
+            "student_id": "S-8",
+            "course_id": "C-108",
+            "total_classes": 30,
+            "present_classes": 27
+        },
+        "S-9|C-109": {
+            "student_id": "S-9",
+            "course_id": "C-109",
+            "total_classes": 28,
+            "present_classes": 23
+        },
+        "S-10|C-110": {
+            "student_id": "S-10",
+            "course_id": "C-110",
+            "total_classes": 32,
+            "present_classes": 29
+        }
+    },
+    "result_records": {
+        "S-1": {
+            "student_id": "S-1",
+            "marks": {
+                "Python Programming": 92
+            },
+            "grades": {
+                "Python Programming": "A+"
+            },
+            "cgpa": 9.2
+        },
+        "S-2": {
+            "student_id": "S-2",
+            "marks": {
+                "Data Structures": 86
+            },
+            "grades": {
+                "Data Structures": "A"
+            },
+            "cgpa": 8.6
+        },
+        "S-3": {
+            "student_id": "S-3",
+            "marks": {
+                "Database Systems": 89
+            },
+            "grades": {
+                "Database Systems": "A"
+            },
+            "cgpa": 8.9
+        },
+        "S-4": {
+            "student_id": "S-4",
+            "marks": {
+                "Operating Systems": 78
+            },
+            "grades": {
+                "Operating Systems": "B"
+            },
+            "cgpa": 7.8
+        },
+        "S-5": {
+            "student_id": "S-5",
+            "marks": {
+                "Computer Networks": 81
+            },
+            "grades": {
+                "Computer Networks": "A"
+            },
+            "cgpa": 8.1
+        },
+        "S-6": {
+            "student_id": "S-6",
+            "marks": {
+                "Software Engineering": 84
+            },
+            "grades": {
+                "Software Engineering": "A"
+            },
+            "cgpa": 8.4
+        },
+        "S-7": {
+            "student_id": "S-7",
+            "marks": {
+                "Web Development": 90
+            },
+            "grades": {
+                "Web Development": "A+"
+            },
+            "cgpa": 9.0
+        },
+        "S-8": {
+            "student_id": "S-8",
+            "marks": {
+                "Artificial Intelligence": 87
+            },
+            "grades": {
+                "Artificial Intelligence": "A"
+            },
+            "cgpa": 8.7
+        },
+        "S-9": {
+            "student_id": "S-9",
+            "marks": {
+                "Cloud Computing": 83
+            },
+            "grades": {
+                "Cloud Computing": "A"
+            },
+            "cgpa": 8.3
+        },
+        "S-10": {
+            "student_id": "S-10",
+            "marks": {
+                "Cyber Security": 88
+            },
+            "grades": {
+                "Cyber Security": "A"
+            },
+            "cgpa": 8.8
+        }
+    }
+}

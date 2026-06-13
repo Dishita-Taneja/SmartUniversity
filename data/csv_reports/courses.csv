@@ -1,0 +1,11 @@
+course_id,course_name,credits,faculty_assigned,students
+C-101,Python Programming,4,F-101,S-1
+C-102,Data Structures,4,F-102,S-2
+C-103,Database Systems,3,F-103,S-3
+C-104,Operating Systems,4,F-104,S-4
+C-105,Computer Networks,3,F-105,S-5
+C-106,Software Engineering,3,F-106,S-6
+C-107,Web Development,4,F-107,S-7
+C-108,Artificial Intelligence,4,F-108,S-8
+C-109,Cloud Computing,3,F-109,S-9
+C-110,Cyber Security,3,F-110,S-10

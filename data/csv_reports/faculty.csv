@@ -1,0 +1,11 @@
+person_id,name,email,phone,employee_id,department,salary,courses_taught
+F-F-101,Dr. Sharma,sharma@example.com,8765432101,F-101,IT,75000,C-101
+F-F-102,Prof. Rao,rao@example.com,8765432102,F-102,CSE,72000,C-102
+F-F-103,Dr. Kapoor,kapoor@example.com,8765432103,F-103,ECE,74000,C-103
+F-F-104,Prof. Menon,menon@example.com,8765432104,F-104,ME,70000,C-104
+F-F-105,Dr. Iyer,iyer@example.com,8765432105,F-105,IT,76000,C-105
+F-F-106,Prof. Khan,khan@example.com,8765432106,F-106,CSE,73000,C-106
+F-F-107,Dr. Sen,sen@example.com,8765432107,F-107,ECE,71000,C-107
+F-F-108,Prof. Bose,bose@example.com,8765432108,F-108,Civil,69000,C-108
+F-F-109,Dr. Nair,nair@example.com,8765432109,F-109,IT,77000,C-109
+F-F-110,Prof. Mehta,mehta@example.com,8765432110,F-110,CSE,78000,C-110

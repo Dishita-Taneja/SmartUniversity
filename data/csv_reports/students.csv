@@ -1,0 +1,11 @@
+person_id,name,email,phone,roll_no,department,semester,registered_courses
+S-S-1,Ilisha,ilisha@example.com,9876543210,S-1,IT,2,C-101
+S-S-2,Aarav,aarav@example.com,9876543211,S-2,CSE,3,C-102
+S-S-3,Meera,meera@example.com,9876543212,S-3,ECE,4,C-103
+S-S-4,Kabir,kabir@example.com,9876543213,S-4,ME,5,C-104
+S-S-5,Ananya,ananya@example.com,9876543214,S-5,IT,6,C-105
+S-S-6,Rohan,rohan@example.com,9876543215,S-6,CSE,2,C-106
+S-S-7,Priya,priya@example.com,9876543216,S-7,ECE,3,C-107
+S-S-8,Dev,dev@example.com,9876543217,S-8,Civil,4,C-108
+S-S-9,Sara,sara@example.com,9876543218,S-9,IT,5,C-109
+S-S-10,Neel,neel@example.com,9876543219,S-10,CSE,6,C-110

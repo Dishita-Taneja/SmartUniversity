@@ -1,0 +1,11 @@
+student_id,subject,marks,grade,cgpa
+S-1,Python Programming,92,A+,9.2
+S-2,Data Structures,86,A,8.6
+S-3,Database Systems,89,A,8.9
+S-4,Operating Systems,78,B,7.8
+S-5,Computer Networks,81,A,8.1
+S-6,Software Engineering,84,A,8.4
+S-7,Web Development,90,A+,9.0
+S-8,Artificial Intelligence,87,A,8.7
+S-9,Cloud Computing,83,A,8.3
+S-10,Cyber Security,88,A,8.8
