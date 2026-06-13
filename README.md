@@ -54,7 +54,7 @@ A Python, console-based **Smart University Management System** for managing:
                              v     v     v
                     ┌────────────┐ ┌────────────┐ ┌────────────┐
                     │   Students │ │   Faculty  │ │   Courses  │
-                    │  (student) │ │  (faculty  │ │  (course)  │
+                    │  (student) │ │  (faculty) │ │  (course)  │
                     └────────────┘ └────────────┘ └────────────┘
 
                              ┌───────────────────────┐
