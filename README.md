@@ -47,25 +47,25 @@ A Python, console-based **Smart University Management System** for managing:
                                     │ calls
                                     v
                          ┌──────────────────────┐
-                         │     University        │
+                         │     University       │
                          │    (university.py)   │
-                         └───┬─────┬─────┬────┘
+                         └───┬─────┬─────┬──────┘
                              │     │     │
                              v     v     v
                     ┌────────────┐ ┌────────────┐ ┌────────────┐
-                    │   Students  │ │   Faculty   │ │   Courses   │
-                    │  (student)  │ │  (faculty)  │ │  (course)   │
+                    │   Students │ │   Faculty  │ │   Courses  │
+                    │  (student) │ │  (faculty  │ │  (course)  │
                     └────────────┘ └────────────┘ └────────────┘
 
                              ┌───────────────────────┐
                              │  Records/Operations    │
                              └──────────┬────────────┘
                                         │
-      ┌───────────────────────────────┼──────────────────────────────┐
-      v                               v                               v
+      ┌─────────────────────────────────┼──────────────────────────────┐
+      v                                 v                               v
 ┌───────────────┐           ┌────────────────┐              ┌──────────────────┐
-│ Attendance     │           │ Results        │              │ Fees & Library   │
-│ (attendance.py)│           │ (result.py)    │              │ (fee.py,         │
+│ Attendance    │           │ Results        │              │ Fees & Library   │
+│(attendance.py)│           │ (result.py)    │              │ (fee.py,         │
 └───────────────┘           └────────────────┘              │ library.py)      │
                                                             └──────────────────┘
 
