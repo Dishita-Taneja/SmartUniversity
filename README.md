@@ -58,7 +58,7 @@ A Python, console-based **Smart University Management System** for managing:
                     └────────────┘ └────────────┘ └────────────┘
 
                              ┌───────────────────────┐
-                             │  Records/Operations    │
+                             │  Records/Operations   │
                              └──────────┬────────────┘
                                         │
       ┌─────────────────────────────────┼──────────────────────────────┐
